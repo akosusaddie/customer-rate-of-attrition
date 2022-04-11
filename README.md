@@ -1,2 +1,2 @@
 # customer-rate-of-attrition
-Prescriptive Analytics with R
+The senior management of a telecom provider is concerned about the rising rate of customer attrition. A recent independent survey has suggested that the industry as a whole will experience increasing churn rates and decreasing average revenue per unit(ARPU).  As a data scientist, I am tasked with analyzing their data, obtaining insights, predicting the potential behavior of customers and recommending steps to improve performance.
